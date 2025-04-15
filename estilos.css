@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(240, 224, 255);
+}
+
+img {
+    width: 80%;
+    border-radius:40px;
+    margin:auto;
+    display: block;
+    margin-top: 20px;
+        margin-bottom: 20 px;
+    
+    }
+
+    h1{
+        font-family: Helvetica;
+        margin: auto;
+        width: 70%;
+        border-radius: 18px;
+        background-color: blueviolet;
+        text-align: center;
+        text-transform: capitalize;
+        
+    }
+
+    h2{
+        font-family: Helvetica;
+        margin: auto;
+        width: 60%;
+        border-radius: 14px;
+        background-color: rgb(165, 95, 230);
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20 px;
+    }
+
+    h3{
+        font-family: Helvetica;
+        margin: auto;
+        width: 50%;
+        text-align: center;
+        border-radius: 10px;
+        background-color: rgb(206, 170, 239);
+        margin-top: 20px;
+        margin-bottom: 20 px;
+
+    }
+    h4{
+        font-family: Helvetica;
+        margin: 3000;
+        width: 50%;
+        text-align: left;
+        margin-top: 120px;
+        margin-bottom: 20 px;
+        border-radius: 10px;
+        background-color: rgb(206, 170, 239);
+    }
+    h5{
+        font-family: Helvetica;
+        margin: 100;
+        width: 80%;
+        text-align: left;
+        margin-top: 20px;
+        margin-bottom: 20 px;
+        text-decoration: underline;
+       
+    }
+    p{
+        font-family: Helvetica;
+        margin: auto;
+        width: 60%;
+        text-align: auto;
+        margin-top: 20px;
+        margin-bottom: 20 px;
+    }
+    p2{
+        font-family: Helvetica;
+        margin: auto;
+        width: 80%;
+        text-align: left;
+        margin-top: 20px;
+        margin-bottom: 20 px;
+    }
+    h6{
+        font-family: Helvetica;
+        margin: auto;
+        width: 40%;
+        text-align: center;
+        border-radius: 10px;
+        background-color: rgb(123, 167, 230);
+        margin-top: 10px ;
+        margin-bottom: 10 px;
+
+    
+    }
+    p3{
+        font-family: Helvetica;
+        margin: auto;
+        width: 40%;
+        text-align: auto;
+        margin-top: 20px;
+        margin-bottom: 20 px;
+    }
+    ul{
+        margin: auto;
+        width: 40%;
+        font-family: Helvetica;
+        text-transform:uppercase;
+        color: blueviolet;
+        margin-top: 20px;
+        text-decoration-line: underline;
+            
+
+
+    }
+    
